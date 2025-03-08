@@ -1,0 +1,6 @@
+@APIFirmaDigitalSNT.APILayer_HostAddress = http://localhost:5121
+
+GET {{APIFirmaDigitalSNT.APILayer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
